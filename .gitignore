@@ -1,0 +1,9 @@
+*.egg-info
+*.pot
+*.py[co]
+__pycache__
+.idea
+env
+.env
+venv
+.venv
